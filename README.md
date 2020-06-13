@@ -1,2 +1,2 @@
-# Team-FierceFE-Romania
-Team Fierce Front-end Implementation- Hotel Romania
+# hng-hotels
+Hotel templates for HNG Internship
